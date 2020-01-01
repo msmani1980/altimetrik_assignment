@@ -48,3 +48,59 @@ Start Dev Server ( both React server and Nodejs server )
  npm run dev
 ```
 
+```
+    Folder Structure 
+```
+client
+    node_modules
+    public
+    src
+        actions
+            authActions.js
+            StatusActions.js
+            types.js
+            uiActions.js
+        components
+            HomePage.js
+            Login.js
+            Profile.js
+            Register.js
+            style.css
+        reducers
+            authReducer.js
+            index.js
+            statusReducer.js
+            uiReducer.js
+        App.css
+        App.js
+        App.test.js
+        index.js
+        store.js
+    .dockerignore
+    .gitignore
+    dockerfile
+    nginx.conf
+    package.json
+config
+    config.js
+    database.js
+controller
+    AuthController.js
+models
+    User.js
+node_modules
+routes
+    Users.js
+utils
+    rateLimiter.js
+    userValidations.js
+.dockeignore
+.env
+.gitignore
+docker-compose-prod.yml
+docker-compose.yml
+dockerfile
+package.json
+server.js
+
+
