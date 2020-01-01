@@ -1,5 +1,5 @@
 {
-  "name": "mern-login-singup-component",
+  "name": "login-singup-component",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,14 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawn-dsilva/mern-login-signup-component.git"
+    "url": "git+https://github.com/msmani1980/altimetrik_assignment.git"
   },
-  "author": "Shawn D'silva",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shawn-dsilva/mern-login-signup-component/issues"
-  },
-  "homepage": "https://github.com/shawn-dsilva/mern-login-signup-component#readme",
+  "author": "Subramani M",
+  "license": "ISC",  
   "dependencies": {
     "@hapi/joi": "^16.1.7",
     "bcryptjs": "^2.4.3",
