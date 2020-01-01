@@ -1,6 +1,6 @@
-## MERN Login Signup Component
+## Login Signup Component
 
-Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication.
+Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB
 
 ## Features
 
@@ -48,10 +48,9 @@ Start Dev Server ( both React server and Nodejs server )
  npm run dev
 ```
 
-```
-    Folder Structure 
+ ## Folder Structure 
     
-```
+````
 ├── ...
 ├── Client                    # Reactjs application folder
 │   ├── src  
@@ -65,4 +64,4 @@ Start Dev Server ( both React server and Nodejs server )
    ├── routes                 # routers information  
    └── Utils                  # UI Vavlidation and number...  
 
-
+`````
